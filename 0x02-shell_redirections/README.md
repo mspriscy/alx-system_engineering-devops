@@ -1,1 +1,1 @@
-0x02 shell
+0x02 Shello Project
